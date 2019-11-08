@@ -12,3 +12,11 @@ bash-3.2# ./salary-seeker.sh
 <p align="center">
 <img src=https://github.com/b3n-j4m1n/salary-seeker/raw/master/demo.gif>
 </p>
+
+## Powershell Usage
+```
+PS C:\scripts> .\salaryseeker.ps1
+    | usage: .\salaryseeker.ps1 <job id>
+    | job id can be found in the URL of the job, e.g. https://www.seek.com.au/job/38035537 <--- here
+    | example: .\salaryseeker.ps1 38035537
+```
